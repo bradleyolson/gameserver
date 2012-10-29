@@ -1,7 +1,7 @@
 {
   "name" : "gameserver",
   "description" : "Games server for Catanode",
-  "version" : "0.0.23",
+  "version" : "0.0.31",
   "author" : "Bradley Olson (github.com/bradleyolson)",
   "directories" : { "lib" : "./lib/gameserver" },
   "main": "lib/gameserver/index",
